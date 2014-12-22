@@ -38,7 +38,7 @@ This keyboarded and encoded edition of the
 #####Front#####
 
 1. The illustration to the Frontispice.
-THE FELICITIE OF MAN, orHis Summum Bonum Written by Sr, R: Barckley, KtIn Caeli summum permanet arce
+
 1. TO THE RIGHT HONOVRABLE ROBERT, Earle of Somerset, Viscount Rochester, Kt. of the most honourable Order of the Garter, &c.
 
 1. TO THE READER.
