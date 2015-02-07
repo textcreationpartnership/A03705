@@ -213,7 +213,10 @@
                   </gap>
                </hi>
             </p>
-            <figure/>
+            <p>
+               <pb facs="tcp:896:2"/>
+               <figure/>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:896:2"/>
